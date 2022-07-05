@@ -32,6 +32,7 @@ git clone https://github.com/WMCharles/README
 
 ## Author Information
 
-Twitter - [Charles](https://twitter.com/WMKCharles) Github - [Charles Wafula](https://github.com/WMCharles)
+Twitter - [Charles Wafula](https://twitter.com/WMKCharles) 
+Github - [Charles Wafula](https://github.com/WMCharles)
 
 [Back to the Top](#project-title)
