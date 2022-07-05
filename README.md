@@ -7,7 +7,7 @@
 + [Description](#description)
 + [Technology Used](#technology-used)
 + [Installation](#installation)
-+ [Bugs & Fixes](#bugs-&-fixes)
++ [Bugs and Fixes](#bugs--fixes)
 + [Author Information](#author-information)
 
 ## Description
