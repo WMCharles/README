@@ -5,13 +5,18 @@
 ## Table of Content
 
 + [Description](#description)
-+ [Installation](#installation)
 + [Technology Used](#technology-used)
++ [Installation](#installation)
++ [Bugs & Fixes](#bugs-&-fixes)
 + [Author Information](#author-information)
 
 ## Description
 
 <p>This is a demo readme file that contains the important areas of a typicall readme file for a project</p>
+
+## Technology Used 
+
+- Markdown Language - Used to add formatting to the plaintext document
 
 ## Installation
 
@@ -21,10 +26,9 @@
 git clone https://github.com/WMCharles/README
 ```
 
-## Technology Used 
+## Bugs & Fixes
 
-* HTML - used for structuring and adding content to the website
-* CSS - used to style the web structure
+<p>In case of bugs and fixes</p>
 
 ## Author Information
 
