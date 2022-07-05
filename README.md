@@ -7,7 +7,7 @@
 + [Description](#description)
 + [Installation](#installation)
 + [Technology Used](#technology-used)
-+ [Author Info](#info)
++ [Author Information](#info)
 
 ## Description
 
