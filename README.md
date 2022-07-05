@@ -13,7 +13,7 @@
 
 <p>This is a demo readme file that contains the important areas of a typicall readme file for a project</p>
 
-## How to install
+## Installation
 
 <p>Clone this repository using the command:</p>
 
