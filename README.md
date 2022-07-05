@@ -1,13 +1,13 @@
 # Project Title 
 
-### Project Description
+##### By Charles Wafula
 
 ## Table of Content
 
 + [Description](#description)
 + [Installation](#installation)
 + [Technology Used](#technology-used)
-+ [Author Information](#info)
++ [Author Information](#author-information)
 
 ## Description
 
