@@ -5,9 +5,9 @@
 ## Table of Content
 
 + [Description](#description)
-+ .[Installation].(#installation)
-+ .[Technology Used].(#technology used)
-+ .[Author Info].(#info)
++ [Installation](#installation)
++ [Technology Used](#technology-used)
++ [Author Info](#info)
 
 ## Description
 
@@ -28,4 +28,4 @@ git clone https://github.com/WMCharles/README
 
 ## Author Information
 
-Twitter - .[Charles].(https://twitter.com/WMKCharles)
+Twitter - [Charles](https://twitter.com/WMKCharles)
